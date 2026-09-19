@@ -19,3 +19,5 @@ yarn-error.log*
 # Scratch and temp files
 .tempmediaStorage/
 scratch/
+.vite/
+
